@@ -31,6 +31,7 @@ class MainForm(Form):
         self._button1.TabIndex = 1
         self._button1.Text = "Show"
         self._button1.UseVisualStyleBackColor = True
+        self._button1.Click += self.Button1Click
         # 
         # button2
         # 
@@ -40,6 +41,7 @@ class MainForm(Form):
         self._button2.TabIndex = 2
         self._button2.Text = "Clear"
         self._button2.UseVisualStyleBackColor = True
+        self._button2.Click += self.Button2Click
         # 
         # button3
         # 
@@ -49,6 +51,7 @@ class MainForm(Form):
         self._button3.TabIndex = 3
         self._button3.Text = "Exit"
         self._button3.UseVisualStyleBackColor = True
+        self._button3.Click += self.Button3Click
         # 
         # MainForm
         # 
@@ -61,3 +64,12 @@ class MainForm(Form):
         self.Text = "schedule"
         self.ResumeLayout(False)
 
+
+    def Button1Click(self, sender, e):
+        self._label1.Text = " Culinary computer programming alegebra biology gym art world studies english"
+
+    def Button2Click(self, sender, e):
+        self._label1.Text = ""         
+
+    def Button3Click(self, sender, e):
+        Application.Exit()
