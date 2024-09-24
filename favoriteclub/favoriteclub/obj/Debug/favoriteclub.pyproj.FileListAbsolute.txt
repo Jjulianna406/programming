@@ -1,0 +1,12 @@
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\bin\Debug\favoriteclub.exe.config
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\bin\Debug\favoriteclub.exe
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\bin\Debug\favoriteclub.dll
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\bin\Debug\IronPython.dll
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\bin\Debug\IronPython.Modules.dll
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\bin\Debug\Microsoft.Scripting.dll
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\obj\Debug\favoriteclub.pyprojResolveAssemblyReference.cache
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\obj\Debug\favoriteclub.MainForm.resources
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\obj\Debug\favoriteclub.pyproj.GenerateResource.Cache
+C:\Users\heflick.j\Desktop\programming\favoriteclub\favoriteclub\obj\Debug\favoriteclub.exe

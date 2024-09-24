@@ -1,0 +1,12 @@
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\bin\Debug\craigspirit.exe.config
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\bin\Debug\craigspirit.exe
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\bin\Debug\craigspirit.dll
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\bin\Debug\IronPython.dll
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\bin\Debug\IronPython.Modules.dll
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\bin\Debug\Microsoft.Scripting.dll
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\obj\Debug\craigspirit.pyprojResolveAssemblyReference.cache
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\obj\Debug\craigspirit.MainForm.resources
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\obj\Debug\craigspirit.pyproj.GenerateResource.Cache
+C:\Users\heflick.j\Desktop\programming\craigspirit\craigspirit\obj\Debug\craigspirit.exe
