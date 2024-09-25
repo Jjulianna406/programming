@@ -22,6 +22,7 @@ class MainForm(Form):
         self._label1.Name = "label1"
         self._label1.Size = System.Drawing.Size(836, 245)
         self._label1.TabIndex = 0
+        self._label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         # 
         # button1
         # 
